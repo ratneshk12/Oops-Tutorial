@@ -6,7 +6,7 @@ public class OOPS {
 
         p1.setTip(5);
         System.out.println(p1.tip);
-        p1.setColor("yellow");
+        p1.setColor(git"yellow");
         System.out.println(p1.color);
     }
 }
